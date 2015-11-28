@@ -1,0 +1,36 @@
+{
+	"Seti_ClosedFolder_dots": true,
+	"Seti_ClosedFolder_remove": true,
+	"Seti_ClosedFolder_same": true,
+	"Seti_SB_big": true,
+	"Seti_SB_bright": true,
+	"Seti_SB_med": true,
+	"Seti_mouse_wheel_tabswitch": true,
+	"Seti_no_bar_undertabs": true,
+	"Seti_pad_3": true,
+	"Seti_pad_5": true,
+	"Seti_rainbow": true,
+	"Seti_sb_big_padding": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_med": true,
+	"Seti_sb_tree_miny": true,
+	"Seti_sb_tree_small": true,
+	"Seti_sb_tree_tiny": true,
+	"Seti_sb_wild": true,
+	"Seti_tabs_med": true,
+	"Seti_tabs_small": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Color Highlighter"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme",
+	"word_wrap": "true"
+}

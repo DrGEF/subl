@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Capybara Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"CSScomb",
+		"Cucumber",
+		"Emmet",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Hayaku - tools for writing CSS faster",
+		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
+		"JS Snippets",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"ProductiveSnippetsERB",
+		"Rails Developer Snippets",
+		"RSpec",
+		"rspec-snippets",
+		"Ruby on Rails snippets",
+		"RubyTest",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"Schemr",
+		"Seti_UI",
+		"SublimeERB",
+		"Themr",
+		"WordPress"
+	]
+}
